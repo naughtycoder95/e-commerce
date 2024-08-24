@@ -1,4 +1,4 @@
-# Backend_TeamProject_1
+# e-commerce
 Spring boot와 Vue.js를 활용한 웹 쇼핑몰 프로젝트입니다.
 
 <br>
