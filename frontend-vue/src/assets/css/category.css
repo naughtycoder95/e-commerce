@@ -1,0 +1,77 @@
+/* 상단 배너 */
+.banner-container-best {
+    /* background-color: rgb(72, 165, 241); */
+    background-image: linear-gradient(to top left,  #ffb6c1, #e6e6fa);
+    color: white;
+    margin-bottom: 50px;
+}
+
+.banner-container-new {
+    /* background-color: rgb(72, 165, 241); */
+    background-image: linear-gradient(to top left,  #ffdab9, #ff7f50);
+    color: white;
+    margin-bottom: 50px;
+}
+
+.banner-container-event {
+    /* background-color: rgb(72, 165, 241); */
+    background-image: linear-gradient(to top left,  #9849e1, RGB(255, 182, 193));
+    color: white;
+    margin-bottom: 50px;
+}
+
+/* 상단 배너 제목 */
+.banner-title {
+    text-align: center;
+    font-family: 'YClover-Bold';
+    font-size: 70px;
+
+    /* 배너 내 텍스트 중앙 정렬 */
+    display: block;
+    height: 300px;
+    line-height: 300px;
+}
+
+#category-title {
+    height: 50px;
+    line-height: 50px;
+    font-size: 30px;
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+#category-products {
+    margin: 0px 100px 100px 100px;
+    padding-bottom: 30px;
+}
+
+.product-image {
+    position: relative;   
+}
+
+.product-paging{
+    text-align: center;
+}
+
+.heart-icon-white {
+    position: absolute;
+    top: 75%;
+    left: 100%;
+    transform: translate(-100%, -75%);
+}
+
+#sorting {
+    text-align: end;
+    margin-top: 50px;
+}
+
+#button {
+    background-color: white;
+    border: none;
+}
+
+.searchContent {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}

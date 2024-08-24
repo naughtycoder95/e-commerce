@@ -1,0 +1,41 @@
+.order-container {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.order-container h2 {
+    text-align: center;
+    margin: 100px 0px;
+    font-family: 'YClover-Bold';
+}
+
+.order-sheet-container {
+    margin-bottom: 50px;
+    border-bottom: solid lightgray 1px;
+    
+}
+
+.order-sheet-title {
+    font-size: 1.3rem;
+    font-family: 'YClover-Regular';
+    border-bottom: solid lightgray 1px;
+    padding-bottom: 10px;
+}
+
+.order-content-row {
+    display: flex;
+}
+
+.row-title {
+    background-color: lightgray;
+    border-right: solid lightgray 1px;
+    font-weight: bold;
+    padding: 15px 0 15px 30px;
+    display: inline-block;
+}
+
+.row-content {
+    /* background-color: aquamarine; */
+    padding: 10px;
+    padding-left: 20px;
+}
